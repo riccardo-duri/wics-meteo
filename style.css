@@ -1,11 +1,12 @@
 body {
-    background-color: black;
+    background-color: darkgray;
 }
+
 h1{
     font-style: italic;
     font-family: georgia;
     color: white;
-    background-color: black;
+    background-color: darkcyan;
     text-align: center;
 }
 
